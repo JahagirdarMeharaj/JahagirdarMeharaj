@@ -4,9 +4,10 @@
 ### Java Full Stack Developer | CSE Graduate  
 
 <p>
-  <a href="https://github.com/JahagirdarMeharaj">
-    <img src="https://komarev.com/ghpvc/?username=JahagirdarMeharaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/JahagirdarMeharaj" align="center">
+    <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=JahagirdarMeharaj.JahagirdarMeharaj">
   </a>
+
   <a href="https://github.com/JahagirdarMeharaj?tab=followers">
     <img src="https://img.shields.io/github/followers/JahagirdarMeharaj?label=Followers&style=social" alt="GitHub followers" />
   </a>
